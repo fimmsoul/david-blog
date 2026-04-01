@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "posts": "글",
+    "portfolio": "포트폴리오",
+    "about": "소개"
+  },
+  "common": {
+    "readMore": "더 읽기",
+    "backToList": "목록으로",
+    "latestPosts": "최근 글",
+    "allPosts": "전체 글",
+    "categories": "카테고리",
+    "tags": "태그",
+    "minuteRead": "분 읽기",
+    "updatedAt": "수정일",
+    "publishedAt": "발행일"
+  },
+  "home": {
+    "title": "글 목록",
+    "filterByCategory": "카테고리",
+    "filterByTag": "태그",
+    "all": "전체"
+  },
+  "post": {
+    "tableOfContents": "목차",
+    "relatedPosts": "관련 글",
+    "sharePost": "공유하기"
+  },
+  "portfolio": {
+    "title": "포트폴리오",
+    "caseStudy": "케이스 스터디"
+  },
+  "meta": {
+    "siteTitle": "David Blog",
+    "siteDescription": "프로덕트 전략, 시장 인사이트, 그리고 글로벌 비즈니스에 관한 글"
+  }
+}

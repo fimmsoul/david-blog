@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "posts": "Posts",
+    "portfolio": "Portfolio",
+    "about": "About"
+  },
+  "common": {
+    "readMore": "Read more",
+    "backToList": "Back to list",
+    "latestPosts": "Latest Posts",
+    "allPosts": "All Posts",
+    "categories": "Categories",
+    "tags": "Tags",
+    "minuteRead": "min read",
+    "updatedAt": "Updated",
+    "publishedAt": "Published"
+  },
+  "home": {
+    "title": "Posts",
+    "filterByCategory": "Category",
+    "filterByTag": "Tag",
+    "all": "All"
+  },
+  "post": {
+    "tableOfContents": "Table of Contents",
+    "relatedPosts": "Related Posts",
+    "sharePost": "Share"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "caseStudy": "Case Study"
+  },
+  "meta": {
+    "siteTitle": "David Blog",
+    "siteDescription": "Product strategy, market insights, and lessons from working across cultures."
+  }
+}
